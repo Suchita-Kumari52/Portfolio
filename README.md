@@ -1,6 +1,6 @@
-#About
+# About
 
-This is my personal portfolio website showcasing my skills, projects, and contact information. It’s designed to provide an overview of who I am as a developer and professional, with a clean, modern look.
+ This is my personal portfolio website showcasing my skills, projects, and contact information.    It’s designed to provide an overview of who I am as a developer and professional, with a clean,   modern look.
 
 
 # Features
